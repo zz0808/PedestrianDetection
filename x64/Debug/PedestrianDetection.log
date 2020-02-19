@@ -1,5 +1,0 @@
-﻿  crop_image.cpp
-  deal_image.cpp
-  正在生成代码...
-deal_image.obj : error LNK2019: 无法解析的外部符号 "private: void __cdecl cv::String::deallocate(void)" (?deallocate@String@cv@@AEAAXXZ)，该符号在函数 "public: __cdecl cv::String::~String(void)" (??1String@cv@@QEAA@XZ) 中被引用
-C:\Users\dylan\source\repos\PedestrianDetection\x64\Debug\PedestrianDetection.exe : fatal error LNK1120: 1 个无法解析的外部命令

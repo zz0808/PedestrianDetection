@@ -1,9 +1,0 @@
-﻿  detection.cpp
-C:\Users\dylan\source\repos\PedestrianDetection\PedestrianDetection\pretreated.h(158,37): warning C4267:  “=”: 从“size_t”转换到“int”，可能丢失数据
-C:\Users\dylan\source\repos\PedestrianDetection\PedestrianDetection\detection.cpp(56,26): warning C4267:  “参数”: 从“size_t”转换到“int”，可能丢失数据
-  正在生成代码
-  10 of 403 functions ( 2.5%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  已完成代码的生成
-  PedestrianDetection.vcxproj -> C:\Users\dylan\source\repos\PedestrianDetection\x64\Release\PedestrianDetection.exe
